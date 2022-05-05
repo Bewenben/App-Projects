@@ -1,0 +1,5 @@
+---> Stack is used when you want to put an image with another icons on it
+---> Container is used when you want to give your element the width,height,borders,etc.
+---> double.infinity is used when you want to give your element infinite dimensions
+
+flutter command prompt: cd D:\Programs\IDE Programs\flutter_windows_2.5.1-stable\flutter\flutter_console
