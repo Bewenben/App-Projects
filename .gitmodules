@@ -1,0 +1,12 @@
+[submodule "App-Projects"]
+	path = App-Projects
+	url = https://github.com/Bewenben/App-Projects.git
+[submodule "FruitMarket"]
+	path = Fruit Market App
+	url = https://github.com/Bewenben/FruitMarket.git
+[submodule "Facebook-Clone-App"]
+	path = Facebook Clone App/Facebook-Clone-App
+	url = https://github.com/Bewenben/Facebook-Clone-App.git
+[submodule "SignUp-SignIn-Mockup"]
+	path = Sign Up - Sign In Mockup
+	url = https://github.com/Bewenben/SignUp-SignIn-Mockup.git
