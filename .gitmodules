@@ -5,7 +5,7 @@
 	path = Fruit Market App
 	url = https://github.com/Bewenben/FruitMarket.git
 [submodule "Facebook-Clone-App"]
-	path = Facebook Clone App/Facebook-Clone-App
+	path = Facebook Clone App
 	url = https://github.com/Bewenben/Facebook-Clone-App.git
 [submodule "SignUp-SignIn-Mockup"]
 	path = Sign Up - Sign In Mockup
